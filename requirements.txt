@@ -1,0 +1,7 @@
+bpython
+loguru
+datasets
+evaluate
+transformers[sentencepiece]
+tensorflow
+
